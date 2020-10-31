@@ -1,6 +1,6 @@
-public class MyClass2 {
+public class MyClass1 {
   int x = 16;
-	int y = 1;
+	int y = 2;
 }
 public class MyClass2 {
   int x = 4;
