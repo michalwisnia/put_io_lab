@@ -1,0 +1,16 @@
+1.1:
+Average: 9470, throughput: 40.5/min
+1.2 (po zmianie kodu):
+Average: 3050, throughput: 1.1/sec
+
+Zastosowane zmiany:
+Zadeklarowanie nowej zmiennej i przypisanie do niej wartości averageSpending() zamiast wielokrotnego wywowływania funkcji
+
+
+z2: 
+20000/h = 5.(5)/sec
+
+10 drukarek - 1.8/sec 
+30 drukarek - 5.7/sec
+
+30 drukarek wygląda na odpowienią ilość
